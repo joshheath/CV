@@ -1,5 +1,5 @@
 ## Joshua Heath
-I have recently decided to become a software developer, having trained and worked in corporate law in London and Hong Kong for the past four years. I want to put the analytical and communication skills learned over this period to use a progressive and existing sector. 
+I have recently decided to become a software developer, having trained and worked in corporate law in London and Hong Kong for the past four years. I want to put the analytical and communication skills learned over this period to use a progressive and exciting sector. 
 
 I am a current student at Makers Academy, an intensive 12 week development bootcamp, training to become a full-stack junior web developer. Following this I am looking to pursue a career in the tech sector in London, preferably involving environmental or sustainable technology.
 
@@ -40,19 +40,19 @@ Graduate Diploma in Law - Pass
 Geography - 2:1 (Hons)
 
 ### Professional experience
-** Stephenson Harwood LLP (March 2016 - March 2018)
-Trainee
+**Stephenson Harwood LLP** (March 2016 - March 2018)
+Law firm - trainee
 
-** Stephenson Harwood LLP (July 2014)
-Vacation scheme
+**Stephenson Harwood LLP** (July 2014)
+Law firm - vacation scheme
 
-** Eversheds LLP (August 2013)
-Internship
+**Eversheds LLP** (August 2013)
+Law firm - internship
 
-** Zouk Capital (June - July 2014)
-Internship
+**Zouk Capital** (June - July 2014)
+Private equity - internship
 
-** AES International (October 2012 - April 2013)
+**AES International** (October 2012 - April 2013)
 Graduate marketing position
 
 ### Interests

@@ -8,6 +8,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Experience
 - Achievements
 - Evidence
+
 #### Another Skill
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -17,6 +18,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ### Projects and code
+- 
+-
  
 ### Education
 #### Makers Academy (May - August 2018)
@@ -29,14 +32,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University and postgraduate education
-** BPP Law School (September 2015 - June 2016)
+### University and postgraduate education
+**BPP Law School** (September 2015 - June 2016)
 Legal Practice Course - Merit
 
-** University of Law (September 2014 - June 2015)
+**University of Law** (September 2014 - June 2015)
 Graduate Diploma in Law - Pass
 
-** University of Bristol (September 2009 - June 2012)
+**University of Bristol** (September 2009 - June 2012)
 Geography - 2:1 (Hons)
 
 ### Professional experience

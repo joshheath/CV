@@ -1,6 +1,6 @@
 # Joshua Heath
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 ---
 |[Email](mailto:joshheath121@gmail.com)    | [Github](https://github.com/joshheath)    | [Codewars](https://www.codewars.com/users/joshheath)
 
@@ -9,6 +9,15 @@ I am an enthusiastic and ambitious full stack junior developer, having recently 
 Before pursuing a career in tech, I trained and worked in corporate law in London and Hong Kong for four years. This professional experience provided me with a broad set of analytical and communication skills which complement the development skills I have learnt since.
 
 I am looking to pursue a career in the tech sector in London, preferably involving environmental and sustainable technology, or music.
+
+## Projects
+
+For a complete list, please see my [GitHub](https://github.com/joshheath) 
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+|[Petbook](http://petbook-acebook.herokuapp.com/users/sign_in) | A group project creating a Facebook clone, allowing users to sign up, create profile pages, post messages and like other user's posts | Ruby, Rails, Heroku, Postgresql, Capybara, Bootstrap / CSS, Balsamiq (for wireframing mockups) |
+| [Stinkbugs Bnb](https://github.com/joshheath/stinkbugs-bnb) | A group project creating an AirBnb clone that allows users to sign up, list properties for rent, book properties and receive email confirmation | Javascript, Cypress |
 
 ## Skills
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -23,16 +32,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Projects
-
-For a complete list, please see my [GitHub](https://github.com/joshheath) 
-
-| Project   | Description | Technologies |
-|---        |---         |---           |
-|[Petbook](http://petbook-acebook.herokuapp.com/users/sign_in) | A group project creating a Facebook clone, allowing users to sign up, create profile pages, post messages and like other user's posts | Ruby, Rails, Heroku, Postgresql, Capybara, Bootstrap / CSS, Balsamiq (for wireframing mockups) |
-| [Stinkbugs Bnb](https://github.com/joshheath/stinkbugs-bnb) | A group project creating an AirBnb clone that allows users to sign up, list properties for rent, book properties and receive email confirmation | Javascript, Cypress |
-
  
 ## Education
 ### Makers Academy (May - August 2018)

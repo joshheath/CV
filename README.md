@@ -2,7 +2,7 @@
 
 |[Email](joshheath121@gmail.com) | [Github](https://github.com/joshheath) | [Codewars](https://www.codewars.com/users/joshheath)
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Professional Experience](#professional_experience) | [Interests](#interests) |
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 
 I am an enthusiastic and ambitious full stack junior developer, having recently graduated from Makers Academy, an intensive 12 week development bootcamp.
 
@@ -54,7 +54,10 @@ Graduate Diploma in Law - Pass
 - **University of Bristol** (September 2009 - June 2012)
 Geography - 2:1 (Hons)
 
-### Professional experience
+- **Westminster School** (September 2003 - June 2008)
+3As at A-level - English, Economics, Geography
+
+### Experience
 - **Stephenson Harwood LLP** (March 2016 - March 2018)
 Law firm - trainee
 

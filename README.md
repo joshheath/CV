@@ -68,9 +68,11 @@ Private equity - internship
 Graduate marketing position
 
 ### Interests
+- I am a keen scuba diver, currently holding an Advanced PADI certification and hoping to progress on to Rescue Diver.
+- I love to travel, most recently on an extended trip through central America from Mexico down to Colombia. 
 
 ### Contact 
 Email: joshheath121@gmail.com
-Github: joshheath
-Codewars: https://www.codewars.com/users/joshheath
+[Github](https://github.com/joshheath)
+[Codewars](https://www.codewars.com/users/joshheath)
 

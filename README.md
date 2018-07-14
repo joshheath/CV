@@ -18,8 +18,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ### Projects and code
-- 
--
+
+For a complete list, please see my [GitHub](https://github.com/joshheath) 
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+
  
 ### Education
 #### Makers Academy (May - August 2018)

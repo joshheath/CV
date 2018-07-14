@@ -1,5 +1,7 @@
 ## Joshua Heath
 
+|Email: joshheath121@gmail.com | [Github](https://github.com/joshheath) | [Codewars](https://www.codewars.com/users/joshheath)
+
 I am an enthusiastic and ambitious full stack junior developer, having recently graduated from Makers Academy, an intensive 12 week development bootcamp.
 
 Before pursuing a career in tech, I trained and worked in corporate law in London and Hong Kong for four years. This professional experience provided me with a broad set of analytical and communication skills which complement the development skills I have learnt since.
@@ -72,8 +74,5 @@ Graduate marketing position
 - I am a keen scuba diver, currently holding an Advanced PADI certification and hoping to progress on to Rescue Diver.
 - I love to travel - most recently I went on an extended trip through central America from Mexico down to Colombia.
 
-### Contact 
-- Email: joshheath121@gmail.com
-- [Github](https://github.com/joshheath)
-- [Codewars](https://www.codewars.com/users/joshheath)
+
 

@@ -1,9 +1,9 @@
 # Joshua Heath
 
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+---
 |[Email](joshheath121@gmail.com) | [Github](https://github.com/joshheath) | [Codewars](https://www.codewars.com/users/joshheath)
 ---
-
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 
 I am an enthusiastic and ambitious full stack junior developer, having recently graduated from Makers Academy, an intensive 12 week development bootcamp.
 
@@ -57,19 +57,19 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 > 3As at A-level - English, Economics, Geography
 
 ## Experience
-- **Stephenson Harwood LLP** (March 2016 - March 2018)
+**Stephenson Harwood LLP** (March 2016 - March 2018)
 > Law firm - trainee
 
-- **Stephenson Harwood LLP** (July 2014)
+**Stephenson Harwood LLP** (July 2014)
 > Law firm - vacation scheme
 
-- **Eversheds LLP** (August 2013)
+**Eversheds LLP** (August 2013)
 > Law firm - internship
 
-- **Zouk Capital** (June - July 2014)
+**Zouk Capital** (June - July 2014)
 > Private equity - internship
 
-- **AES International** (October 2012 - April 2013)
+**AES International** (October 2012 - April 2013)
 > Graduate marketing position
 
 ## Interests

@@ -30,8 +30,9 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+|[Petbook](http://petbook-acebook.herokuapp.com/users/sign_in) | A group project creating a Facebook clone, allowing users to sign up, create profile pages, post messages and like other user's posts | Ruby, Rails, Heroku, Postgresql, Capybara, Bootstrap / CSS, Balsamiq (for wireframing mockups) |
 | [Stinkbugs Bnb](https://github.com/joshheath/stinkbugs-bnb) | A group project creating an AirBnb clone that allows users to sign up, list properties for rent, book properties and receive email confirmation | Javascript, Cypress |
-| | |
+
  
 ## Education
 ### Makers Academy (May - August 2018)

@@ -42,29 +42,29 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 - RSpec, Jasmine
 
 ### University and postgraduate education
-**BPP Law School** (September 2015 - June 2016)
+- **BPP Law School** (September 2015 - June 2016)
 Legal Practice Course - Merit
 
-**University of Law** (September 2014 - June 2015)
+- **University of Law** (September 2014 - June 2015)
 Graduate Diploma in Law - Pass
 
-**University of Bristol** (September 2009 - June 2012)
+- **University of Bristol** (September 2009 - June 2012)
 Geography - 2:1 (Hons)
 
 ### Professional experience
-**Stephenson Harwood LLP** (March 2016 - March 2018)
+- **Stephenson Harwood LLP** (March 2016 - March 2018)
 Law firm - trainee
 
-**Stephenson Harwood LLP** (July 2014)
+- **Stephenson Harwood LLP** (July 2014)
 Law firm - vacation scheme
 
-**Eversheds LLP** (August 2013)
+- **Eversheds LLP** (August 2013)
 Law firm - internship
 
-**Zouk Capital** (June - July 2014)
+- **Zouk Capital** (June - July 2014)
 Private equity - internship
 
-**AES International** (October 2012 - April 2013)
+- **AES International** (October 2012 - April 2013)
 Graduate marketing position
 
 ### Interests

@@ -1,6 +1,7 @@
 ## Joshua Heath
 
 |[Email](joshheath121@gmail.com) | [Github](https://github.com/joshheath) | [Codewars](https://www.codewars.com/users/joshheath)
+---
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 
@@ -51,32 +52,28 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 > Graduate Diploma in Law - Pass
 
 **University of Bristol** (September 2009 - June 2012)
-> Geography - 2:1 (Hons)
-> My dissertation modelled the impact of geoengineering schemes on the climate of Africa. Part of this analysis involved using R, which, although I didn't realise it at the time, was my first foray into programming!
+> Geography - 2:1 (Hons). My dissertation modelled the impact of geoengineering schemes on the climate of Africa. Part of this analysis involved using R, which although I didn't realise it at the time, was my first experience of programming!
 
 **Westminster School** (September 2003 - June 2008)
 > 3As at A-level - English, Economics, Geography
 
 ### Experience
 - **Stephenson Harwood LLP** (March 2016 - March 2018)
-Law firm - trainee
+> Law firm - trainee
 
 - **Stephenson Harwood LLP** (July 2014)
-Law firm - vacation scheme
+> Law firm - vacation scheme
 
 - **Eversheds LLP** (August 2013)
-Law firm - internship
+> Law firm - internship
 
 - **Zouk Capital** (June - July 2014)
-Private equity - internship
+> Private equity - internship
 
 - **AES International** (October 2012 - April 2013)
-Graduate marketing position
+> Graduate marketing position
 
 ### Interests
 - I am a keen scuba diver, currently holding an Advanced PADI certification and hoping to progress on to Rescue Diver.
 - I love to travel and have been lucky enough to go on extended trips through Central America, South America and the Middle East. Also, whilst working in Hong Kong I managed to take (perhaps too many) shorter trips to surrounding countries, including China, Japan, Korea, Vietnam and Thailand. 
 - I participate in an art camp at Burning Man each year, that bring hundreds of canvases and paints to the desert and runs art workshops and events for the temporary residents of Black Rock City. 
-
-
-

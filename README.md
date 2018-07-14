@@ -1,6 +1,8 @@
 ## Joshua Heath
 
-|Email: joshheath121@gmail.com | [Github](https://github.com/joshheath) | [Codewars](https://www.codewars.com/users/joshheath)
+|[Email](joshheath121@gmail.com) | [Github](https://github.com/joshheath) | [Codewars](https://www.codewars.com/users/joshheath)
+
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Professional Experience](#professionalexperience) | [Interests](#interests) |
 
 I am an enthusiastic and ambitious full stack junior developer, having recently graduated from Makers Academy, an intensive 12 week development bootcamp.
 
@@ -22,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-### Projects and code
+### Projects
 
 For a complete list, please see my [GitHub](https://github.com/joshheath) 
 
@@ -30,8 +32,6 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 |---        |---         |---           |
 | [Stinkbugs Bnb](https://github.com/joshheath/stinkbugs-bnb) | A group project creating an AirBnb clone that allows users to sign up, list properties for rent, book properties and receive email confirmation | Javascript, Cypress |
 | | |
-
-
  
 ### Education
 #### Makers Academy (May - August 2018)

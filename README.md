@@ -27,6 +27,7 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Stinkbugs Bnb](https://github.com/joshheath/stinkbugs-bnb) | A group project creating an AirBnb clone that allows users to sign up, list properties for rent, book properties and receive email confirmation | Javascript, Cypress |
+| | |
 
 
  
@@ -69,10 +70,10 @@ Graduate marketing position
 
 ### Interests
 - I am a keen scuba diver, currently holding an Advanced PADI certification and hoping to progress on to Rescue Diver.
-- I love to travel, most recently on an extended trip through central America from Mexico down to Colombia. 
+- I love to travel - most recently I went on an extended trip through central America from Mexico down to Colombia.
 
 ### Contact 
-Email: joshheath121@gmail.com
-[Github](https://github.com/joshheath)
-[Codewars](https://www.codewars.com/users/joshheath)
+- Email: joshheath121@gmail.com
+- [Github](https://github.com/joshheath)
+- [Codewars](https://www.codewars.com/users/joshheath)
 

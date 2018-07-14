@@ -1,7 +1,10 @@
 ## Joshua Heath
-I have recently decided to become a software developer, having trained and worked in corporate law in London and Hong Kong for the past four years. I want to put the analytical and communication skills learned over this period to use a progressive and exciting sector. 
 
-I am a current student at Makers Academy, an intensive 12 week development bootcamp, training to become a full-stack junior web developer. Following this I am looking to pursue a career in the tech sector in London, preferably involving environmental or sustainable technology.
+I am an enthusiastic and ambitious full stack junior developer, having recently graduated from Makers Academy, an intensive 12 week development bootcamp.
+
+Before pursuing a career in tech, I trained and worked in corporate law in London and Hong Kong for four years. This professional experience provided me with a broad set of analytical and communication skills which complement the development skills I have learnt since.
+
+I am looking to pursue a career in the tech sector in London, preferably involving environmental and sustainable technology, or music
 
 ### Skills
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -23,6 +26,8 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+| [Stinkbugs Bnb](https://github.com/joshheath/stinkbugs-bnb) | A group project creating an AirBnb clone that allows users to sign up, list properties for rent, book properties and receive email confirmation | Javascript, Cypress |
+
 
  
 ### Education

@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 ---
-|[Email](joshheath121@gmail.com)    | [Github](https://github.com/joshheath)    | [Codewars](https://www.codewars.com/users/joshheath)
+|[Email](mailto:joshheath121@gmail.com)    | [Github](https://github.com/joshheath)    | [Codewars](https://www.codewars.com/users/joshheath)
 
 I am an enthusiastic and ambitious full stack junior developer, having recently graduated from Makers Academy, an intensive 12 week development bootcamp.
 

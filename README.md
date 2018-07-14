@@ -1,7 +1,6 @@
 # Joshua Heath
----
 
-|[Email](joshheath121@gmail.com) | [Github](https://github.com/joshheath) | [Codewars](https://www.codewars.com/users/joshheath)
+** |[Email](joshheath121@gmail.com) | [Github](https://github.com/joshheath) | [Codewars](https://www.codewars.com/users/joshheath)
 ---
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |

@@ -25,14 +25,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-### Another Skill
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+### Analytical
+Working as a litigator involved having to digest large volumes of information relating to a case and working out which pieces were relevant to the client. In order to do this effectively, I had to be logical and creative, both of which are traits I feel are essential to become a successful developer. 
  
+### Communication
+- Drafting witness statements and applications to court
+- Succinct and effective communication absolutely essential
+
+### Working style
+- Personally motivated
+- As part of a team - working in HK, delegating 
+- Flexible - 
+
+
 ## Education
 ### Makers Academy (May - August 2018)
 - I have just come to the end of 12 rewarding and intense weeks at Makers Academy. The course is split, with the weeks spent either pairing or working in groups, and the weekends focused on self-led programming. 

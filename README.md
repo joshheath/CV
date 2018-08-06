@@ -19,7 +19,7 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 |[SentimentAlyzer](https://github.com/joshheath/MA_final_project) | Final project at Makers, creating a web app and a Twitter bot that uses natural language processing and sentiment analysis software to provide insight on tweets and hashtags returned by Twitter's API. | Javascript, CSS, Node.js, Jest (testing framework), Twitter API, Twitter apps, React, Heroku, Trello, Balsamiq |
 |[Petbook](http://petbook-acebook.herokuapp.com/users/sign_in) | A group project creating a Facebook clone, allowing users to sign up, create profile pages, post messages and like other user's posts | Ruby, Rails, Heroku, Postgresql, Capybara, Bootstrap / CSS, Balsamiq (for wireframing mockups) |
 | [Stinkbugs Bnb](https://github.com/joshheath/stinkbugs-bnb) | A group project creating an AirBnb clone that allows users to sign up, list properties for rent, book properties and receive email confirmation | Javascript, Cypress |
-| [TCPChat] (https://github.com/joshheath/TCPChat) | Side project done with another student creating a chatroom app that works from the terminal allowing users to enter a username and chat with eachother via a server | Ruby |
+| [TCPChat](https://github.com/joshheath/TCPChat) | Side project done with another student creating a chatroom app that works from the terminal allowing users to enter a username and chat with eachother via a server | Ruby |
 
 ## Skills
 ### Analytical
@@ -75,5 +75,5 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 > Graduate marketing position
 
 ## Interests
-- I am a keen scuba diver, currently holding an Advanced PADI certification and hoping to progress on to Rescue Diver. This has takes me to jungle caves in Mexico and to (slightly more chilly) glacier meltwater lakes in Iceland. 
+- I am a keen scuba diver, currently holding an Advanced PADI certification and hoping to progress on to Rescue Diver. This has taken me to jungle caves in Mexico and to (slightly more chilly) glacier meltwater lakes in Iceland. 
 - I participate in an art camp at Burning Man each year, that bring hundreds of canvases and paints to the desert and runs art workshops and events for the temporary residents of Black Rock City. 

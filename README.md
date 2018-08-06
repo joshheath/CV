@@ -16,37 +16,30 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+|[SentimentAlyzer](https://github.com/joshheath/MA_final_project) | Final project at Makers, creating a web app and a Twitter bot that uses natural language processing and sentiment analysis software to provide insight on tweets and hashtags returned by Twitter's API. | Javascript, CSS, Node.js, Jest (testing framework), Twitter API, Twitter apps, React, Heroku, Trello, Balsamiq |
 |[Petbook](http://petbook-acebook.herokuapp.com/users/sign_in) | A group project creating a Facebook clone, allowing users to sign up, create profile pages, post messages and like other user's posts | Ruby, Rails, Heroku, Postgresql, Capybara, Bootstrap / CSS, Balsamiq (for wireframing mockups) |
 | [Stinkbugs Bnb](https://github.com/joshheath/stinkbugs-bnb) | A group project creating an AirBnb clone that allows users to sign up, list properties for rent, book properties and receive email confirmation | Javascript, Cypress |
+| [TCPChat] (https://github.com/joshheath/TCPChat) | Side project done with another student creating a chatroom app that works from the terminal allowing users to enter a username and chat with eachother via a server | Ruby |
 
 ## Skills
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-- Experience
-- Achievements
-- Evidence
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ### Analytical
-Working as a litigator involved having to digest large volumes of information relating to a case and working out which pieces were relevant to the client. In order to do this effectively, I had to be logical and creative, both of which are traits I feel are essential to become a successful developer. 
+- Working as a litigator involved having to digest large volumes of information relating to a case and working out which pieces were relevant to the client. 
+- To do this effectively, I had to be logical and creative in thinking about the problem and developing a solution that was appropriate. 
+- These skills have been used on a daily basis whilst at Makers, thinking through coding problems and trying out new technology to try and solve them.
  
 ### Communication
-- Drafting witness statements and applications to court
-- Succinct and effective communication absolutely essential
+- Since starting Makers I have had plenty of opportunity to explain and discuss new concepts and ideas with people from both coding and non-coding backgrounds and am adept at explaining tricky concepts in an accessible way.
+- Previous professional experience involved cross-examining and questioning witnesses, for which I gained special recognition. This required creativity in thinking through and approaching issues, and then presenting these ideas to the recipient in a succinct and effective manner. 
 
 ### Working style
-- Personally motivated
-- As part of a team - working in HK, delegating 
-- Flexible - 
-
+- I am able to work well with all personality types and effectively both in groups or individually. 
+- I am enthusiastic and and always keen to contribute, whilst also being an effective listener. 
+- I constantly strive to grow and build my skills and knowledge - this includes being self-motivated to go and find solutions myself and also being open and receptive to feedback on my performance. 
 
 ## Education
 ### Makers Academy (May - August 2018)
 - I have just come to the end of 12 rewarding and intense weeks at Makers Academy. The course is split, with the weeks spent either pairing or working in groups, and the weekends focused on self-led programming. 
-- Some of the technologies used over the course include: Ruby, Rails, Javascript, Node.js, HTML, CSS, Rspec, Cypress, Jasmine, PostgreSQL, Mongo DB, Github, Trello. 
+- Some of the technologies used over the course include: Ruby, Rails, Javascript, Node.js, React, HTML, CSS, Rspec, Cypress, Jasmine, PostgreSQL, Mongo DB, Github, Trello. 
 - There is a focus on Test Driven Development and Object-Oriented Design which has instilled a strong sense of the right way to tackle coding problems. 
 - The course has also given me supporting knowledge, such as where to start when approaching a problem, what resources to use and how to find solutions. 
 - Five of the 12 weeks are spent working in groups, which have allowed me put XP values into practice and gain an understanding of how to get the best out of myself and the team as a whole. 
@@ -82,6 +75,5 @@ Working as a litigator involved having to digest large volumes of information re
 > Graduate marketing position
 
 ## Interests
-- I am a keen scuba diver, currently holding an Advanced PADI certification and hoping to progress on to Rescue Diver.
-- I love to travel and have been lucky enough to go on extended trips through Central America, South America and the Middle East. Also, whilst working in Hong Kong I managed to take (perhaps too many) shorter trips to surrounding countries, including China, Japan, Korea, Vietnam and Thailand. 
+- I am a keen scuba diver, currently holding an Advanced PADI certification and hoping to progress on to Rescue Diver. This has takes me to jungle caves in Mexico and to (slightly more chilly) glacier meltwater lakes in Iceland. 
 - I participate in an art camp at Burning Man each year, that bring hundreds of canvases and paints to the desert and runs art workshops and events for the temporary residents of Black Rock City. 

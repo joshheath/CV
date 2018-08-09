@@ -4,7 +4,7 @@
 ---
 |[Email](mailto:joshheath121@gmail.com)    | [Github](https://github.com/joshheath)    | [Codewars](https://www.codewars.com/users/joshheath)
 
-I am an enthusiastic and ambitious junior developer, having recently graduated from Makers Academy. I am now looking to embark on a career in the tech sector in London at a company where I can continue to learn and grow as a developer.
+I am an enthusiastic and ambitious junior developer, and recent graduate of Makers Academy. I am now looking to embark on a career in the tech sector in London at a company where I can continue to learn and grow as a developer.
 
 Before pursuing a career in tech, I trained and worked in corporate law in London and Hong Kong for four years. This professional experience provided me with a broad set of analytical and communication skills which complement the development skills I have learnt since. 
 
@@ -16,8 +16,8 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-|[SentimentAlyzer](https://github.com/joshheath/MA_final_project) | Final project at Makers, creating a web app and a Twitter bot that uses natural language processing and sentiment analysis software to provide insight on tweets and hashtags returned by Twitter's API. | Javascript, CSS, Node.js, Jest (testing framework), Twitter API, Twitter apps, React, Heroku, Trello, Balsamiq |
-|[Petbook](http://petbook-acebook.herokuapp.com/users/sign_in) | A group project creating a Facebook clone, allowing users to sign up, create profile pages, post messages and like other user's posts | Ruby, Rails, Heroku, Postgresql, Capybara, Bootstrap / CSS, Balsamiq (for wireframing mockups) |
+|[SentimentAlyzer](https://github.com/joshheath/MA_final_project) | Final project at Makers, creating a web app and a Twitter bot that uses natural language processing and sentiment analysis software to provide insight on tweets and hashtags returned by Twitter's API. | Javascript, CSS, Node.js, Jest, Twitter API, Twitter apps, React, Heroku, Trello, Balsamiq |
+|[Petbook](http://petbook-acebook.herokuapp.com/users/sign_in) | A group project creating a Facebook clone, allowing users to sign up, create profile pages, post messages and like other user's posts | Ruby, Rails, Heroku, Postgresql, Capybara, Bootstrap / CSS, Balsamiq |
 | [Stinkbugs Bnb](https://github.com/joshheath/stinkbugs-bnb) | A group project creating an Airbnb clone that allows users to sign up, list properties for rent, book properties and receive email confirmation | Javascript, Cypress |
 | [TCPChat](https://github.com/joshheath/TCPChat) | Side project done with another student creating a chatroom app that works from the terminal allowing users to enter a username and chat with eachother via a server | Ruby |
 

@@ -76,4 +76,4 @@ For a complete list, please see my [GitHub](https://github.com/joshheath)
 
 ## Interests
 - I am a keen scuba diver, currently holding an Advanced PADI certification and hoping to progress on to Rescue Diver. This has taken me to jungle caves in Mexico and to (slightly more chilly) glacier meltwater lakes in Iceland. 
-- I participate in an art camp at Burning Man each year, that bring hundreds of canvases and paints to the desert and runs art workshops and events for the temporary residents of Black Rock City. 
+- I participate in an art camp at Burning Man each year, that brings hundreds of canvases and paints to the desert and runs art workshops and events for the temporary residents of Black Rock City. 

@@ -4,7 +4,7 @@
 ---
 |[Email](mailto:joshheath121@gmail.com)    | [Github](https://github.com/joshheath)    | [Codewars](https://www.codewars.com/users/joshheath) |
 
-I am an enthusiastic and ambitious junior developer, and recent graduate of Makers Academy. I am now looking to embark on a career in the tech sector in London at a company where I can continue to learn and grow as a developer.
+I am an enthusiastic and ambitious junior developer, and recent graduate of Makers Academy. I am now looking to embark on a career in the tech sector in New York at a company where I can continue to learn and grow as a developer.
 
 Before pursuing a career in tech, I trained and worked in corporate law in London and Hong Kong for four years. This professional experience provided me with a broad set of analytical and communication skills which complement the development skills I have learnt since. 
 
